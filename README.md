@@ -21,3 +21,7 @@ General lib for CC2540
 BLE btmgmt
 -----
 - https://github.com/chrippa/ds4drv/issues/123
+
+Install Bluez
+---
+- https://urbanjack.wordpress.com/2014/06/05/how-to-set-bluez-into-ble-or-le-only-mode-ibeacon/
