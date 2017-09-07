@@ -17,3 +17,7 @@ General lib for CC2540
 - https://e2e.ti.com/support/wireless_connectivity/bluetooth_low_energy/f/538/t/117829
 - https://e2e.ti.com/support/wireless_connectivity/bluetooth_low_energy/f/538/p/594081/2183929
 - https://e2e.ti.com/support/wireless_connectivity/bluetooth_low_energy/f/538/p/450836/1621568
+
+BLE btmgmt
+-----
+- https://github.com/chrippa/ds4drv/issues/123
